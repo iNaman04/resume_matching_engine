@@ -1,6 +1,6 @@
 # Resume Matching Engine
 
-This project implements the Redrob Hackathon workflow in Python using only standard libraries.
+This project implements a workflow in Python using only standard libraries.
 
 ## What it does
 
